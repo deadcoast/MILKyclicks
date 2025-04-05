@@ -32,7 +32,7 @@ An advanced auto-clicker with a minimal ASCII-styled GUI for macOS. MILKyclicks 
 
 ### Option 1: Use the pre-built application (Recommended)
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/MILKyclicks/releases) page
+1. Download the latest release from the [Releases](https://github.com/deadcoast/MILKyclicks/releases) page
 2. Move `MILKyclicks.app` to your Applications folder
 3. Launch the application
 
@@ -40,7 +40,7 @@ An advanced auto-clicker with a minimal ASCII-styled GUI for macOS. MILKyclicks 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MILKyclicks.git
+git clone https://github.com/deadcoast/MILKyclicks.git
 cd MILKyclicks
 ```
 
